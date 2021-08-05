@@ -6,7 +6,7 @@ A collection of scripts that might be useful for followers of zettelkasten who u
 
 Currently we have the following functionalities:
 
-1. (Inspired by [Flomo](flomoapp.com)) suggest a list of high-frequency words (splited by jieba) in your note directory and allow the user to browse notes containing these "keywords" for further processing, such as tagging or making connections between these notes
+1. (Inspired by [Flomo](flomoapp.com)) suggest a list of high-frequency words (splited by jieba) in your note directory and allow you to browse notes containing these "keywords" for further processing, such as tagging or making connections between these notes
 2. (Inspired by [Obsidian](obsidian.md)) print a randomly selected note from your note directory
 
 ## Installation
