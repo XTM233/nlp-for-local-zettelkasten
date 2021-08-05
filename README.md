@@ -39,6 +39,7 @@ Future improvement will be mainly focused on these aspects:
 - customization in terms of parameters and stopwords
 - improvemen on efficiency of indexing
 - improvement on accuracy and precision of model, for example, to include aliases and synonyms.
+- integration with Sublime Text 4
 
 Welcome to raise issues or contribute to these project! 
 
