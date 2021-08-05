@@ -6,8 +6,8 @@ A collection of scripts that might be useful for followers of zettelkasten who u
 
 Currently we have the following functionalities:
 
-1. (Inspired by [Flomo](flomoapp.com)) suggest a list of high-frequency words (splited by jieba) in your note directory and allow you to browse notes containing these "keywords" for further processing, such as tagging or making connections between these notes
-2. (Inspired by [Obsidian](obsidian.md)) print a randomly selected note from your note directory
+1. (inspired by [Flomo](flomoapp.com)) suggest a list of high-frequency words (splited by jieba) in your note directory and allow you to browse notes containing these "keywords" for further processing, such as tagging or making connections between these notes
+2. (inspired by [Obsidian](obsidian.md)) print a randomly selected note from your note directory
 
 ## Installation
 
@@ -38,8 +38,9 @@ Future improvement will be mainly focused on these aspects:
 - make it a command line application
 - customization in terms of parameters and stopwords
 - improvemen on efficiency of indexing
-- improvement on accuracy and precision of model, for example, to include aliases and synonyms.
+- improvement on accuracy and precision of model, for example, to include aliases and synonyms
 - integration with Sublime Text 4
+- more functionalities added based on feedbacks and my constantly iterating workflow
 
 Welcome to raise issues or contribute to these project! 
 
