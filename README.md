@@ -46,4 +46,4 @@ Welcome to raise issues or contribute to these project!
 
 ## Thanks
 
-A big thanks to [jieba](https://pypi.org/project/jieba/), [my favourite blog on zettelkasten](zettelkasten.de), [Obsidian](obsidian.md) and [Flomo](flomoapp.com)).
+A big thanks to [jieba](https://pypi.org/project/jieba/), [my favourite blog on zettelkasten](https://zettelkasten.de/), [Obsidian](obsidian.md) and [Flomo](flomoapp.com)).
