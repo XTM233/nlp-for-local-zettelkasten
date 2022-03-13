@@ -37,7 +37,7 @@ Future improvement will be mainly focused on these aspects:
 
 - make it a command line application
 - customization in terms of parameters and stopwords
-- improvemen on efficiency of indexing
+- improvement on efficiency of indexing
 - improvement on accuracy and precision of model, for example, to include aliases and synonyms
 - integration with Sublime Text 4
 - more functionalities added based on feedbacks and my constantly iterating workflow
